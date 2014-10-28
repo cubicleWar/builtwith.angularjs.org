@@ -3580,7 +3580,20 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "Fluxey",
+      "thumb": "fluxey/thumb.png",
+      "desc": "Simple, beautiful surveys you can build in minutes.",
+      "url": "https://fluxey.com/",
+      "submitter": "cubiclewar",
+      "submissionDate": "2014-10-28",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Laravel",
+        "jQuery"
+      ]
     }
-
   ]
 }
